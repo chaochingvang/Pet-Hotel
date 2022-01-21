@@ -8,6 +8,7 @@
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Screenshots](#screenshots)
+  - [Built With](#built-with)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
@@ -18,11 +19,14 @@
 
 ## Description
 
-Pet Hotel was a group project utilizing React.js as a front-end framework and C# and .NET as the back-end framework.  
+Pet Hotel was a group project utilizing React.js as a front-end framework and C# and .NET as the back-end framework. The application is built to allow for the creation of pet owners, pets, and allow the pet to check-in and check-out of the Pet-Hotel. 
 
 ## Screenshots
 
-<img src="" />## Built With
+[Pet Hotel Logo](./README_images/pethotel-logo.png)
+[Pet Hotel App](./README_images/pethotel.png)
+
+## Built With
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40px" width="40px" /></a><a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40px" width="40px" /></a><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40px" width="40px" /></a><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40px" width="40px" /></a><a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40px" width="40px" /></a>
 
