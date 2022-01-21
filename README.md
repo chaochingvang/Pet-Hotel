@@ -23,7 +23,7 @@ Pet Hotel was a group project utilizing React.js as a front-end framework and C#
 
 ## Screenshots
 
-![Pet Hotel Logo](./README_images/pethotel-logo.png)
+![Pet Hotel Logo](./README_images/pethotel-logo-whitebg.png)
 ![Pet Hotel App](./README_images/pethotel.png)
 
 ## Built With
